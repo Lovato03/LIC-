@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <link rel="stylesheet" href="CSS/Estilos.css">
+<meta charset="UTF-8">
+<title>Prueba practica</title>
+</head>
+<body>
+    <h1>HTML & CSS: Curso practivo avanzado</h1>
+   <h2>Datos del Libro</h2>
+    <li> <a href="#">Titulo: </a>HTML & CSS Curso practico avanzado </li> 
+      <li><a href="#">Autor:</a>Sergio Luján Mora</li>
+      <li><a href="#">Editorial:</a>Publicaciones Alteria</li>
+      <li><a href="">Año de publicacion:</a>2015</li>
+      <li><a href="">ISBN:</a>ISBN:978-84-944049-4-8</li>
+
+     <h2>Descripcion del libro </h2>
+     <p>aunque los inicios de <span><b href= "">Internet</b></span> se remontan a los años sesenta, no ha sido has los años noveta cuando, gracias a la <span><b href= "">Web</b></span> se ha extendido su uso por todo el mundo.
+         En pocos años, la <span><b href= "">Web</b></span> ha evoluacionado enormemente: se ha pasado de pagianas sencillas, con pocas imagenes y contenido estaticos que estan visitadas por unos pocos usuarios a paginas complejas con
+        contenidos dinamicos que provienen de bases de datos y que son visitadas por miles de usuarios al mismo tiempo.</p>
+        <p>Toda las paginas estan internamente construidas con la misma tecnologia, con el Lenguaje de marcas de hipertext (Hypertext Markup Lenguage, HTML) y con las hojas de estilo en 
+            cascada  <c href="sombra"> (Cascading Style Sheets,CSS)</c> </p>
+        <P> Este libro es adecuado para cualquiera que tengan interes en aprender a desarrollar sus propias paginas web. No son necesarios conocimientos previos para aprender con este libro, lo unico que 
+            es neceario es saber utilizar un ordenar y saber nevagar por la <span><b href= "">Web</b></span>  </P>
+        <h2>Contenido del libro</h2>
+        <p>El contenido de este libro se estrutura en tres apartados bien diferentes </p>
+        <li>
+        En la primera parte del libro se trabajan conceptos generales que  son necesarios para poder desarrollar paginas web; se explican conceptos de estrutura fisica y estructura logica (o estructura de navegacion )
+        de un sitio web. se detalla como influye la estructura fisica en las URL o direcciones que se emplean a la hora de creas los enlaces de un sitio web. Pasando por
+        el concepto de "Standar web" un termino general que se emplea para referirse  a los estandares que define su funcionamiento como HTML y CSS empelando para el desarrollo de las
+        paginas web en el lado del cliente
+        </li>
+        <li>
+            En la segunda parte se trabaja HTML. Partiendo de la estructura basica de una pagina web, se explican las etiqeutas de HTML que se utilizan para definir el texto, los enlaces, las listas,
+            las tablas, los formularios y los elementos multimedia
+        </li>
+        <li>
+            En la tercera y ultima parte se explica CSS, el lenguaje que se emplea para definir el formato y la presentacion de una pagina web, Explica como utilizar el color, como definir la 
+            presentacion del texto, de las tablas y de los formularios; como realizar transformaciones y transcisiones con el fin de diseñar una pagina web.
+        </li>
+</html>
